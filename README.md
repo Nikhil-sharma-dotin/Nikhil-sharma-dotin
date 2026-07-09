@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Sharma&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20·%20Security%20Researcher%20·%20Automation%20Engineer&descSize=18&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Sharma&fontSize=60&fontColor=fff&animation=fadeIn&desc=Pentester%20·%20Business%20Enthusiast%20·%20Automation%20Engineer&descSize=18&descAlignY=65" width="100%" />
 </div>
 
 <p align="center">
@@ -22,17 +22,17 @@
 ```python
 class NikhilSharma:
     def __init__(self):
-        self.role = "Full-Stack Developer & Security Researcher"
+        self.role = "Pentester & Automation Engineer"
         self.location = "India"
         self.build = [
+            "Security assessment & recon frameworks",
             "AI-powered automation platforms",
-            "Security & recon frameworks",
-            "Scalable web applications"
+            "Business growth through tech"
         ]
-        self.mission = "Building tools that solve real problems"
+        self.mission = "Breaking things, building smarter"
 
     def current_focus(self):
-        return "LeadPulse — AI lead generation & client acquisition platform"
+        return "GymFlow — AI lead generation & client acquisition platform"
 
 me = NikhilSharma()
 ```
@@ -197,7 +197,7 @@ me = NikhilSharma()
 </div>
 
 <p align="center">
-  <b>⚡ "Building tools that solve real problems"</b>
+  <b>⚡ "Breaking things, building smarter"</b>
   <br><br>
   <i>Let's connect and build something amazing!</i>
 </p>
