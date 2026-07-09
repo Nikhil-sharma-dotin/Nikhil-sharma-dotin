@@ -17,177 +17,71 @@
 
 ---
 
-## 🚀 About Me
+## Who I Am
 
-```python
-class NikhilSharma:
-    def __init__(self):
-        self.role = "Pentester & Automation Engineer"
-        self.location = "India"
-        self.build = [
-            "Security assessment & recon frameworks",
-            "AI-powered automation platforms",
-            "Business growth through tech"
-        ]
-        self.mission = "Breaking things, building smarter"
+I identify security gaps that cost businesses money — and build automated systems to close them.
 
-    def current_focus(self):
-        return "GymFlow — AI lead generation & client acquisition platform"
+**Pentest Focus:** Web & API security assessments, attack surface mapping, exploit chain validation, red team automation.
 
-me = NikhilSharma()
+**Business Focus:** AI-powered lead generation, client acquisition pipelines, process automation that drives revenue.
+
+**The overlap:** I build tools that do the work of entire security or sales teams — automated recon frameworks that find vulnerabilities before attackers do, and AI outreach platforms that find clients before competitors do.
+
+---
+
+## What I Deliver
+
+| Area | Capability |
+|---|---|
+| **Security Assessments** | Full-scope penetration testing, vulnerability research, exploit development, bug bounty hunting |
+| **Automation Engineering** | Custom tooling for recon, scanning, reporting — replacing manual work with intelligent pipelines |
+| **Business Systems** | AI outreach automation, lead scoring & sequencing, CRM integration, analytics dashboards |
+| **Risk Analysis** | Business-impact-driven vulnerability scoring, not just CVSS numbers — what matters to *your* bottom line |
+
+---
+
+## Featured Work
+
+### 🔐 ReconMaster — Autonomous Offensive Recon Engine
+*Automated attack surface mapping, vulnerability correlation, and exploit path generation.*
+
+Not a scanner — an **autonomous adversary**. ReconMaster builds a live graph of your attack surface, correlates findings across modules, verifies exploitability with real probes, and chains vulnerabilities into multi-hop attack paths. Scores every finding by **actual business risk**, not theoretical CVSS.
+
+### 🏋️ GymFlow — AI Lead Generation & Client Acquisition Platform
+*Multi-channel outreach automation with AI lead scoring, smart sequencing, and real-time analytics.*
+
+Built for service businesses that need clients, not more tools. Automates discovery, outreach, follow-ups, and meeting scheduling across channels. AI-driven lead scoring prioritizes prospects most likely to convert.
+
+### 🪝 Hookproof — Security Research & Exploitation Toolkit
+*Advanced security analysis toolkit for red team operations and CTF competitions.*
+
+Webhook interception, payload crafting, and automated exploitation chains. Built for real offensive security work.
+
+### 🔍 Hardened Recon — Bug Bounty Reconnaissance Framework
+*Evidence-driven recon framework automating subdomain discovery, port scanning, and vulnerability surface mapping.*
+
+Results that matter: actionable findings, not noise.
+
+---
+
+## Approach
+
+```
+Security is a business problem, not a tech problem.
+
+I don't just find vulnerabilities — I quantify what they cost you,
+prioritize what to fix first, and build automation so they don't
+come back. Same approach applies to business systems:
+identify the bottleneck, automate the pipeline, measure the result.
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
-
----
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏋️ GymFlow</h3>
-      <div align="center">
-        <a href="https://github.com/Nikhil-sharma-dotin/gymflow-sales" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <p><strong>AI Lead Generation & Client Acquisition Platform</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white" />
-        </p>
-        <p><em>Multi-channel outreach automation with AI lead scoring, smart sequencing, and real-time analytics dashboard.</em></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔍 Hardened Recon</h3>
-      <div align="center">
-        <a href="https://github.com/Nikhil-sharma-dotin/hardened-recon-orchestrator" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <p><strong>Bug Bounty Reconnaissance Framework</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
-          <img src="https://img.shields.io/badge/Security-FF4444?logo=secur&logoColor=white" />
-        </p>
-        <p><em>Evidence-driven reconnaissance framework that automates subdomain discovery, port scanning, and vulnerability surface mapping.</em></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🪝 Hookproof</h3>
-      <div align="center">
-        <a href="https://github.com/Nikhil-sharma-dotin/Hookproof" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <p><strong>Security Research Tool</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Security-FF4444?logo=secur&logoColor=white" />
-        </p>
-        <p><em>Advanced security analysis and exploitation toolkit for red team operations and CTF competitions.</em></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📟 Process Scheduler</h3>
-      <div align="center">
-        <a href="https://github.com/Nikhil-sharma-dotin/Process_Schedular_Simulatorr" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <p><strong>OS Process Scheduling Simulator</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/Algorithms-FF6F00?logo=codecraft&logoColor=white" />
-          <img src="https://img.shields.io/badge/Systems-00599C?logo=gnu&logoColor=white" />
-        </p>
-        <p><em>Interactive CPU scheduling algorithm simulator — visualize FCFS, SJF, Round Robin, and Priority Scheduling.</em></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
+## Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil-sharma-dotin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-sharma-dotin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-sharma-dotin&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-sharma-dotin&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil-sharma-dotin&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="95%" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nikhil-sharma-dotin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-sharma-dotin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -197,9 +91,9 @@ me = NikhilSharma()
 </div>
 
 <p align="center">
-  <b>⚡ "Breaking things, building smarter"</b>
+  <b>⚡ Security meets business automation</b>
   <br><br>
-  <i>Let's connect and build something amazing!</i>
+  <i>Let's talk about what you're protecting — or what you're trying to build.</i>
 </p>
 
 <p align="center">
