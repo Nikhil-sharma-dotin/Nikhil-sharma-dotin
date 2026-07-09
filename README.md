@@ -101,15 +101,6 @@
 
 <br>
 
-<!-- STATS -->
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-sharma-dotin&show_icons=true&count_private=true&theme=city_lights&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=8B949E&border_color=30363D#gh-dark-mode-only" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-sharma-dotin&layout=compact&theme=city_lights&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&border_color=30363D#gh-dark-mode-only" width="49%" />
-</p>
-
-<br>
 
 <!-- FOOTER -->
 <div align="center">
