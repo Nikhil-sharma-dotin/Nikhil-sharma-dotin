@@ -47,23 +47,21 @@
   <tr>
     <td width="50%" align="center">
       <br>
-      <b>🔐 <span style="color:#C5A059">ReconMaster</span></b>
-      <br><br>
-      <sub>Autonomous offensive recon engine — attack surface mapping, vulnerability correlation, and exploit path generation. Scores findings by actual business risk.</sub>
+      <img src="https://img.shields.io/badge/ReconMaster-161B22?style=for-the-badge&logo=appveyor&logoColor=C5A059&labelColor=0D1117" /><br><br>
+      <sub>Autonomous offensive recon engine — attack surface mapping, vulnerability correlation, and exploit path generation.</sub>
       <br><br>
       <a href="https://github.com/Nikhil-sharma-dotin/ReconMaster">
-        <img src="https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=C5A059&labelColor=0D1117&borderColor=30363D" />
+        <img src="https://img.shields.io/badge/▸_View_Project-0D1117?style=for-the-badge&logo=github&logoColor=C5A059&labelColor=161B22" />
       </a>
       <br><br>
     </td>
     <td width="50%" align="center">
       <br>
-      <b>🏋️ <span style="color:#58A6FF">GymFlow</span></b>
-      <br><br>
-      <sub>AI lead generation and client acquisition platform — multi-channel outreach, smart sequencing, real-time analytics. Clients on autopilot.</sub>
+      <img src="https://img.shields.io/badge/GymFlow-161B22?style=for-the-badge&logo=appveyor&logoColor=58A6FF&labelColor=0D1117" /><br><br>
+      <sub>AI lead generation and client acquisition — multi-channel outreach, smart sequencing, real-time analytics.</sub>
       <br><br>
       <a href="https://github.com/Nikhil-sharma-dotin/gymflow-sales">
-        <img src="https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=C5A059&labelColor=0D1117&borderColor=30363D" />
+        <img src="https://img.shields.io/badge/▸_View_Project-0D1117?style=for-the-badge&logo=github&logoColor=C5A059&labelColor=161B22" />
       </a>
       <br><br>
     </td>
@@ -71,23 +69,21 @@
   <tr>
     <td width="50%" align="center">
       <br>
-      <b>🪝 <span style="color:#C5A059">Hookproof</span></b>
-      <br><br>
-      <sub>Security research and exploitation toolkit — webhook interception, payload crafting, and automated exploitation chains for red teams.</sub>
+      <img src="https://img.shields.io/badge/Hookproof-161B22?style=for-the-badge&logo=appveyor&logoColor=C5A059&labelColor=0D1117" /><br><br>
+      <sub>Security research and exploitation toolkit — webhook interception, payload crafting, automated exploitation chains.</sub>
       <br><br>
       <a href="https://github.com/Nikhil-sharma-dotin/Hookproof">
-        <img src="https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=C5A059&labelColor=0D1117&borderColor=30363D" />
+        <img src="https://img.shields.io/badge/▸_View_Project-0D1117?style=for-the-badge&logo=github&logoColor=C5A059&labelColor=161B22" />
       </a>
       <br><br>
     </td>
     <td width="50%" align="center">
       <br>
-      <b>🔍 <span style="color:#58A6FF">Hardened Recon</span></b>
-      <br><br>
-      <sub>Bug bounty recon framework — subdomain discovery, port scanning, vulnerability surface mapping. Evidence-driven, noise-free results.</sub>
+      <img src="https://img.shields.io/badge/Hardened%20Recon-161B22?style=for-the-badge&logo=appveyor&logoColor=58A6FF&labelColor=0D1117" /><br><br>
+      <sub>Bug bounty recon framework — subdomain discovery, port scanning, vulnerability surface mapping.</sub>
       <br><br>
       <a href="https://github.com/Nikhil-sharma-dotin/hardened-recon-orchestrator">
-        <img src="https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=C5A059&labelColor=0D1117&borderColor=30363D" />
+        <img src="https://img.shields.io/badge/▸_View_Project-0D1117?style=for-the-badge&logo=github&logoColor=C5A059&labelColor=161B22" />
       </a>
       <br><br>
     </td>
@@ -149,14 +145,14 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <sub style="color:#4A5568">
-    Penetration Testing · Security Automation · Business Automation
-    <br><br>
-    <b>Security is a business problem. I solve both.</b>
-  </sub>
+  <img src="https://img.shields.io/badge/Penetration_Testing-161B22?style=flat-square&logo=appveyor&logoColor=C5A059" />
+  <img src="https://img.shields.io/badge/Security_Automation-161B22?style=flat-square&logo=appveyor&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Business_Automation-161B22?style=flat-square&logo=appveyor&logoColor=C5A059" />
+  <br><br>
+  <b>Security is a business problem. I solve both.</b>
   <br><br>
   <a href="https://github.com/Nikhil-Sharma-dotin?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Projects-0D1117?style=flat-square&logo=github&logoColor=C5A059&labelColor=161B22" />
+    <img src="https://img.shields.io/badge/▸_All_Projects-0D1117?style=for-the-badge&logo=github&logoColor=C5A059&labelColor=161B22" />
   </a>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" width="100%" />
